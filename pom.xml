@@ -196,7 +196,6 @@
                 <version>2.2</version>
                 <configuration>
                     <path>/</path>
-                    <tomcatWebXml>src/main/webapp/WEB-INF/web.xml</tomcatWebXml>
                 </configuration>
             </plugin>
         </plugins>
