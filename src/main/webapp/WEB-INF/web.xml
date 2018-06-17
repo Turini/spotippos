@@ -3,7 +3,8 @@
 	xmlns:web="http://java.sun.com/xml/ns/javaee" 
 	xmlns="http://java.sun.com/xml/ns/javaee" 
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
-	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
+	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0"
+    metadata-complete="true">
 
   <display-name>spotippos</display-name>
   
