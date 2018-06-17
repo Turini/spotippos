@@ -1,10 +1,13 @@
 # The legend of Spotippos
 
-Helping bytes to find the house of their dreams.
+[![CircleCI](https://circleci.com/gh/Turini/spotippos.svg?style=svg)](https://circleci.com/gh/Turini/spotippos)
+[![works badge](https://cdn.rawgit.com/nikku/works-on-my-machine/v0.2.0/badge.svg)](https://github.com/nikku/works-on-my-machine)
+
+Helping bytes from the Goopple galaxy to find the house of their dreams.
 
 ## Technologies
 
-JDK 10, VRaptor 4, Bean Validation 2, Maven 3.5+, Docker
+JDK 10, VRaptor 4, Bean Validation 2, Maven 3.5+, Docker, CircleCI 2.0
 
 ## Building in your machine
 
@@ -16,7 +19,7 @@ mvn package
 
 ## Running Spotippos app
 
-If you already have Java 10 and mvn installed, you can easily execute this app using:
+If you already have JDK 10 and mvn installed, you can easily execute this app using:
 
 ```
 mvn tomcat7:run
