@@ -1,0 +1,5 @@
+target/
+.idea/
+*.yml
+*.class
+*.DS_Store

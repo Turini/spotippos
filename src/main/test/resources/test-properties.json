@@ -1,0 +1,16 @@
+{
+  "totalProperties": 1,
+  "properties": [
+    {
+      "id": 1,
+      "title": "Imóvel código 1",
+      "price": 643000,
+      "description": "Laboris quis quis",
+      "lat": 1257,
+      "long": 928,
+      "beds": 3,
+      "baths": 2,
+      "squareMeters": 61
+    }
+  ]
+}
